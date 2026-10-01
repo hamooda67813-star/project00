@@ -1,0 +1,47 @@
+.:
+total 0
+drwxr-xr-x  3 mohabdel _amman  53 Oct  1 08:55 .
+drwx------ 16 mohabdel _amman 305 Oct  1 08:45 ..
+drwxr-xr-x  5 mohabdel _amman  51 Oct  1 08:49 dev_workspace
+-rw-r--r--  1 mohabdel _amman   0 Oct  1 08:55 tree_structure.txt
+
+./dev_workspace:
+total 0
+drwxr-xr-x 5 mohabdel _amman 51 Oct  1 08:49 .
+drwxr-xr-x 3 mohabdel _amman 53 Oct  1 08:55 ..
+drwxr-xr-x 2 mohabdel _amman  6 Oct  1 08:49 archives
+drwxr-xr-x 3 mohabdel _amman 17 Oct  1 08:50 projects
+drwxr-xr-x 2 mohabdel _amman  6 Oct  1 08:49 tools
+
+./dev_workspace/archives:
+total 0
+drwxr-xr-x 2 mohabdel _amman  6 Oct  1 08:49 .
+drwxr-xr-x 5 mohabdel _amman 51 Oct  1 08:49 ..
+
+./dev_workspace/projects:
+total 0
+drwxr-xr-x 3 mohabdel _amman 17 Oct  1 08:50 .
+drwxr-xr-x 5 mohabdel _amman 51 Oct  1 08:49 ..
+drwxr-xr-x 4 mohabdel _amman 37 Oct  1 08:50 web
+
+./dev_workspace/projects/web:
+total 0
+drwxr-xr-x 4 mohabdel _amman 37 Oct  1 08:50 .
+drwxr-xr-x 3 mohabdel _amman 17 Oct  1 08:50 ..
+drwxr-xr-x 2 mohabdel _amman  6 Oct  1 08:50 backend
+drwxr-xr-x 2 mohabdel _amman  6 Oct  1 08:50 frontend
+
+./dev_workspace/projects/web/backend:
+total 0
+drwxr-xr-x 2 mohabdel _amman  6 Oct  1 08:50 .
+drwxr-xr-x 4 mohabdel _amman 37 Oct  1 08:50 ..
+
+./dev_workspace/projects/web/frontend:
+total 0
+drwxr-xr-x 2 mohabdel _amman  6 Oct  1 08:50 .
+drwxr-xr-x 4 mohabdel _amman 37 Oct  1 08:50 ..
+
+./dev_workspace/tools:
+total 0
+drwxr-xr-x 2 mohabdel _amman  6 Oct  1 08:49 .
+drwxr-xr-x 5 mohabdel _amman 51 Oct  1 08:49 ..

@@ -1,0 +1,38 @@
+GIT WORKFLOW
+=============
+
+This document describes the complete Git workflow used to manage and publish project changes.
+
+1. EDIT
+-------
+Modify or create project files in the working directory.
+
+Example:
+    nano README.md
+
+2. ADD
+------
+Stage the modified files to prepare them for the next commit.
+
+Command:
+    git add README.md
+
+3. COMMIT
+---------
+Save the staged changes as a snapshot in the local repository history.
+
+Command:
+    git commit -m "Update project documentation"
+
+4. PUSH
+-------
+Upload the committed changes from the local repository to the remote GitHub repository.
+
+Command:
+    git push
+
+WORKFLOW SUMMARY
+----------------
+Edit -> Add -> Commit -> Push
+
+This workflow helps maintain a clear project history, organize changes, and keep the remote repository synchronized with local development.

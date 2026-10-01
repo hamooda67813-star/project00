@@ -1,0 +1,6 @@
+ create draft
+what is inside draft
+This is the first line.
+This is the second line.
+create backup
+rename backup

@@ -1,0 +1,5 @@
+commit e0debf0c80a18589f5b0ea18980f08eed385b1c0
+Author: Mohammed Haithem <hamooda67813@gmail.com>
+Date:   Thu Oct 1 09:37:35 2026 +0300
+
+    Add hello.txt
